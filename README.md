@@ -9,5 +9,5 @@ María Álvarez García (), Carolina Clemente Caravaca (carolcc18) María José 
 
 ## Objetivos del trabajo
 
-El objetivo del programa consiste en el préstamo y transporte del máximos de 3 libros de la biblioteca por persona,
+El objetivo del programa consiste en el préstamo y transporte de un libro de la biblioteca por persona,
 la cual no pueda ir a por ellos.
