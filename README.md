@@ -5,7 +5,7 @@ MovinBooks te lo acerca sin compromiso.
 
 ## Integrantes del equipo
 
-María Álvarez García (), Carolina Clemente Caravaca (carolcc18) María José García Benito ().
+María Álvarez García (), Carolina Clemente Caravaca (carolcc18) María José García Benito (mariaj19).
 
 ## Objetivos del trabajo
 
